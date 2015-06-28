@@ -17,7 +17,7 @@
 # inherit from hima-common
 -include device/htc/hima-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := htc_himaul,htc_himauhl
+TARGET_OTA_ASSERT_DEVICE := htc_himaul,htc_himauhl,himaul,himauhl
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_m9_defconfig
